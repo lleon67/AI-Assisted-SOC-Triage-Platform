@@ -1,0 +1,9 @@
+## Key Features
+
+* Deployed a cloud-hosted SOC environment using Wazuh, OpenSearch, Filebeat, Docker Compose, and Oracle Cloud Infrastructure.
+* Built a custom AI triage pipeline that processed Wazuh alerts and generated severity scores, summaries, and incident classifications.
+* Simulated three attack scenarios: SSH brute force, sudo privilege escalation, and file integrity tampering.
+* Compared AI-generated triage results against human SOC analyst responses.
+* Measured alert classification, misclassification patterns, time-to-triage, and incident consolidation.
+* Identified key limitations in AI-driven SOC workflows, including poor alert correlation and a critical false negative in low-volume file integrity tampering alerts.
+* Documented troubleshooting involving TLS certificates, OpenSearch authentication, Cloudflare tunnel failures, SSH port forwarding, and container configuration.
