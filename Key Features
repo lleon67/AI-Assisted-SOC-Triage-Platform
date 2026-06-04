@@ -1,4 +1,4 @@
-## Key Features
+Key Features
 
 * Deployed a cloud-hosted SOC environment using Wazuh, OpenSearch, Filebeat, Docker Compose, and Oracle Cloud Infrastructure.
 * Built a custom AI triage pipeline that processed Wazuh alerts and generated severity scores, summaries, and incident classifications.
